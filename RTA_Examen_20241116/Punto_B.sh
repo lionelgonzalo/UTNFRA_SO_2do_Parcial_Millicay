@@ -1,6 +1,4 @@
-
-#LISTA=$1
-#PASS=$2
+#PASS=$1
 #ANT_IFS=$IFS
 #IFS=$'\n'
 

@@ -25,7 +25,7 @@ p
 +512M
 t
 2
-8e
+82
 wq
 sudo wipefs -a /dev/sdd1
 sudo wipefs -a /dev/sdd2
